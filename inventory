@@ -1,3 +1,3 @@
-[home servers]
+[home_servers]
 192.168.0.26 ansible_user=omc
 192.168.0.5 ansible_user=romualdo
